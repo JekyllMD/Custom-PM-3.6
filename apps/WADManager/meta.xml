@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+	<name>Yet Another Wad Mgr</name>
+	<version>rev25</version>
+        <release_date>201006243013100</release_date>
+	<coder>various</coder>
+	<short_description>Install/Uninstall WADs</short_description>
+	<long_description>    Press the "A" Button to (un)install WADs.
+        If no file is marked, the normal single file (un)install menu will appear.
+        If at least one file is marked, the batch (un)install menu will appear.
+
+    Press the "+" Button to (un-)mark the selected WAD for batch installation
+    Press the "-" Button to (un-)mark the selected WAD for batch uninstallation
+    Press the "1" Button to go to the operations menu (can yet only delete single files)
+
+    A "+" will appear in front of the name of marked WADs for installation
+    A "-" will appear in front of the name of marked WADs for uninstallation</long_description>
+</app>
+
