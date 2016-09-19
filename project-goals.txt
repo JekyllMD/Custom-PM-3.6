@@ -1,0 +1,1 @@
+This custom build is designed to add quality skins, stages, music, and menu aesthetics into Project M 3.6. No balance changes or bug fixes have been added besides purely aesthetic fixes. Currently, the base build of this project is PM 3.6, but separate versions will be made in the future using Lunchable's build and Pyotr's build once they are released.
